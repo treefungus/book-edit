@@ -2,3 +2,5 @@
 As a linguistic book editor, this tool is to give me the first impressions of the new job.
 
 nltk, pandas, numpy, matplotlib, seaborn
+
+tokenization, lemmatization, POS tagging, ngrams, frequency distribution, visualization
